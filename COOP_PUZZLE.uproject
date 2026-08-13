@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F8AD823D-446D-1FEF-8768-DF98846784A9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "COOP_PUZZLE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
